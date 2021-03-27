@@ -1,4 +1,4 @@
-# SoftwareDesignPatterns
+# BasketballSim
 A project to study software architecture design patterns.  
 
 The program simulates basketball games. Teams are assigned offense and defense ratings. Scoring is based on those ratings. A a table of previous game scores is kept during the session. There is a prediction class that attempts to predict the final score of the game before each quarter. Predictions metrics are tracked, but not currently stored.
